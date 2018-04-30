@@ -7,6 +7,8 @@ https://maven.google.com/com/google/android/gms/play-services-vision-common/12.0
 - `Android 8.1 (API 27) SDK Platform`
 - [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tree/12.0.1)
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/12.0.1)
+- [dandar3/android-google-play-services-clearcut](https://github.com/dandar3/android-google-play-services-clearcut/tree/12.0.1)
+- [dandar3/android-google-play-services-flags](https://github.com/dandar3/android-google-play-services-flags/tree/12.0.1)
 
 **References:**
 - https://developers.google.com/vision/introduction/
